@@ -59,6 +59,7 @@ Developed by: SADHANA R  RegisterNumber:25017643
 
 
 **TIMING DIGRAMS FOR SISO Shift Register**
+<img width="1920" height="1080" alt="Screenshot (66)" src="https://github.com/user-attachments/assets/5d0ff60e-2d4b-4fe1-9003-932b5210f7ea" />
 
 
 **RESULTS**
